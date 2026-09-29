@@ -1,0 +1,5 @@
+Task 2 - Portfolio Website
+Student: Sajal Solanki B7-289
+File: index.html
+Status: Completed - Website is working in Edge Browser
+Date: 28 Sep 2026
